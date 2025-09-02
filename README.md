@@ -6,3 +6,8 @@
 * There will be future updates with more and more features. So stay tuned!
 
 > _Thank You!_
+
+## DISCONTINUED
+
+**Please proceed to the latest build**
+https://github.com/Venura-Shiromal/GPA-Calculator-BetterGUI
